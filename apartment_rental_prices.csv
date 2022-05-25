@@ -1,0 +1,1849 @@
+rental_price,sq_mtrs,Bedrooms,Bathrooms,constituency
+155000,4.0,4.0,4.0, Westlands
+100000,300.0,3.0,4.0, Dagoretti North
+75000,3.0,3.0,5.0, Dagoretti North
+135000,227.0,3.0,4.0, Dagoretti North
+50000,3.0,3.0,, Embakasi
+150000,2.0,2.0,, Westlands
+100000,14.0,2.0,3.0, Dagoretti North
+100000,186.0,3.0,3.0, Westlands
+85000,4.0,4.0,, Thika Road
+65000,2.0,2.0,2.0, Dagoretti North
+95000,2.0,2.0,2.0, Westlands
+75000,3.0,3.0,3.0, Thindigua
+65000,3.0,3.0,2.0, Dagoretti North
+85000,1.0,1.0,1.0, Westlands
+220000,3.0,3.0,3.0, Westlands
+120000,3.0,3.0,3.0, Westlands
+50000,0.0,0.0,1.0, Westlands
+85000,2.0,2.0,2.0, Dagoretti North
+12000,90.0,1.0,1.0, Nyali
+13000,0.0,0.0,, Westlands
+13000,2.0,2.0,1.0, Kiambaa
+13000,0.0,0.0,1.0, Kiambaa
+13000,1.0,1.0,1.0, Kisauni
+14000,2.0,2.0,1.0, Kiambaa
+15000,2.0,2.0,1.0, Kiambaa
+15000,45.0,1.0,1.0, Dagoretti South
+15000,0.0,0.0,1.0, Kiambu Road
+15000,2.0,2.0,1.0, Roysambu
+16000,2.0,2.0,2.0, Kiambaa
+16000,1.0,1.0,1.0, Kasarani
+16000,2.0,2.0,1.0, Dagoretti South
+16000,1.0,1.0,1.0, Kajiado North
+16000,1.0,1.0,1.0, Kiambaa
+98000,3.0,3.0,3.0, Dagoretti North
+200000,3.0,3.0,3.0, Westlands
+16000,1.0,1.0,1.0, Kasarani
+16000,1.0,1.0,, Kiambaa
+17000,1.0,1.0,, Athi River
+17000,1.0,1.0,1.0, Ngong
+17000,2.0,2.0,2.0, Kiambaa
+17000,2.0,2.0,2.0, Kiambaa
+17000,2.0,2.0,, Kajiado North
+17500,1.0,1.0,, Embakasi
+18000,2.0,2.0,2.0, Kiambaa
+18000,1.0,1.0,1.0, Nyali
+18000,1.0,1.0,1.0, Kikuyu
+19000,180.0,1.0,1.0, Nyali
+20000,1.0,1.0,, Westlands
+20000,2023.0,1.0,1.0, Dagoretti South
+20000,2.0,2.0,, Kasarani
+70000,2.0,2.0,2.0, Dagoretti North
+75000,125.0,2.0,2.0, Dagoretti North
+20000,4000.0,1.0,1.0, Kiambaa
+20000,2.0,2.0,2.0, Ruiru
+20000,1.0,1.0,1.0, Kiambaa
+20000,200.0,1.0,1.0, Nyali
+20000,2.0,2.0,2.0, Kiambaa
+20000,1200.0,1.0,1.0, Nyali
+20000,4000.0,1.0,1.0, Kiambaa
+20000,2.0,2.0,, Kajiado North
+20000,2.0,2.0,2.0, Kisumu Central
+22000,2.0,2.0,2.0, Kikuyu
+22000,2.0,2.0,1.0, Kabete
+22000,2.0,2.0,1.0, Kajiado North
+280000,3.0,3.0,, Westlands
+18000,1.0,1.0,1.0, Kikuyu
+23000,4000.0,1.0,1.0, Kiambaa
+23000,2.0,2.0,2.0, Kisumu Central
+24000,2.0,2.0,2.0, Embakasi
+24000,,,, Langata
+24000,2.0,2.0,2.0, Nyali
+25000,3.0,3.0,2.0, Thika
+25000,4000.0,2.0,, Kiambaa
+25000,1.0,1.0,1.0, Kiambaa
+25000,2.0,2.0,2.0, Embakasi
+25000,2.0,2.0,2.0, Kikuyu
+25000,2.0,2.0,1.0, Dagoretti South
+25000,2.0,2.0,, Nyali
+25000,1.0,1.0,, Kiambaa
+100000,3.0,3.0,3.0, Dagoretti North
+25000,1.0,1.0,, Kiambaa
+25000,1012.0,1.0,1.0, Kiambaa
+25000,2.0,2.0,1.0, Ruiru
+26000,1.0,1.0,, Roysambu
+27000,18.0,1.0,1.0, Langata
+28000,2.0,2.0,2.0, Kiambaa
+28000,2.0,2.0,2.0, Athi River
+28000,100.0,1.0,1.0, Nyali
+28000,2.0,2.0,2.0, Kikuyu
+28000,4047.0,2.0,2.0, Kiambaa
+28000,2.0,2.0,2.0, Mombasa Road
+28000,200.0,2.0,2.0, Nyali
+28000,120.0,2.0,2.0, Nyali
+28000,2.0,2.0,2.0, Athi River
+200000,240.0,5.0,5.0, Dagoretti North
+28000,2.0,2.0,2.0, Kiambaa
+30000,1.0,1.0,1.0, Kisumu West
+30000,35.0,2.0,1.0, Kiambu Road
+30000,9.0,2.0,2.0, Thika East
+30000,1.0,1.0,1.0, Langata
+30000,0.0,0.0,, Dagoretti North
+30000,125.0,2.0,2.0, Kiambaa
+30000,2.0,2.0,2.0, Kiambaa
+30000,1.0,1.0,1.0, Westlands
+30000,2500.0,3.0,3.0, Nyali
+30000,1012.0,2.0,3.0, Kilifi South
+30000,1.0,1.0,1.0, Ngong Road
+30000,2.0,2.0,, Westlands
+30000,6071.0,1.0,1.0, Kiambaa
+30000,3.0,3.0,2.0, Athi River
+175000,150.0,2.0,2.0, Westlands
+145000,3.0,3.0,5.0, Westlands
+30000,2.0,2.0,2.0, Mombasa Road
+30000,2.0,2.0,2.0, Embakasi
+30000,2.0,2.0,2.0, Kiambu Town
+32000,2.0,2.0,2.0, Kiambaa
+32000,1.0,1.0,1.0, Ngong Road
+32500,3035.0,2.0,2.0, Kiambaa
+33000,105.0,3.0,2.0, Athi River
+33000,3.0,3.0,2.0, Kajiado North
+33500,3.0,3.0,3.0, Eldoret North
+35000,125.0,,, Kiambaa
+35000,2.0,2.0,3.0, Kiambu Constituency
+35000,,,, Langata
+35000,1.0,1.0,, Dagoretti North
+35000,120.0,1.0,1.0, Kiambu Road
+130000,2.0,2.0,2.0, Dagoretti North
+35000,80.0,1.0,1.0, Kiambu Road
+35000,2.0,2.0,, Embakasi
+35000,3.0,3.0,2.0, Athi River
+35000,2.0,2.0,2.0, Embakasi
+35000,300.0,2.0,2.0, Westlands
+35000,130.0,2.0,2.0, Kiambaa
+35000,2.0,2.0,2.0, Roysambu
+35000,55.0,2.0,1.0, Langata
+35000,2500.0,3.0,2.0, Nyali
+35000,2.0,2.0,2.0, Embakasi
+35000,0.0,0.0,, Dagoretti North
+35000,3.0,3.0,2.0, Athi River
+35000,3.0,3.0,2.0, Embakasi
+35000,3.0,3.0,3.0, Athi River
+90000,250.0,3.0,3.0, Dagoretti North
+100000,3.0,3.0,3.0, Dagoretti North
+35000,125.0,2.0,1.0, Kiambaa
+35000,186.0,2.0,, Starehe
+35000,2000.0,2.0,2.0, Nyali
+35000,2000.0,1.0,1.0, Westlands
+35000,2.0,2.0,, Roysambu
+35000,3.0,3.0,2.0, Athi River
+35750,85.0,2.0,2.0, Ruiru
+37000,2.0,2.0,2.0, Kiambaa
+38000,2.0,2.0,2.0, Kiambaa
+38000,2.0,2.0,2.0, Kiambaa
+38000,2.0,2.0,2.0, Westlands
+38000,3.0,3.0,2.0, Kabete
+38000,45.0,2.0,2.0, Kiambaa
+38000,3.0,3.0,2.0, Kiambaa
+38000,2.0,2.0,1.0, Westlands
+240000,3.0,3.0,2.0, Langata
+85000,3.0,3.0,3.0, Dagoretti North
+38000,1.0,1.0,1.0, Langata
+38000,2.0,2.0,2.0, Kiambaa
+39000,2.0,2.0,1.0, Langata
+40000,12000.0,2.0,2.0, Kiambaa
+40000,120.0,3.0,2.0, Kajiado North
+40000,2500.0,3.0,3.0, Nyali
+40000,2500.0,3.0,3.0, Nyali
+40000,1.0,1.0,1.0, Dagoretti North
+40000,2.0,2.0,2.0, Kiambaa
+40000,2.0,2.0,2.0, Starehe
+40000,3.0,3.0,1.0, Langata
+40000,2500.0,3.0,2.0, Nyali
+40000,2.0,2.0,2.0, Dagoretti North
+40000,2.0,2.0,2.0, Thindigua
+40000,2.0,2.0,2.0, Thindigua
+40000,1.0,1.0,1.0, Dagoretti North
+40000,3.0,3.0,1.0, Westlands
+40000,2.0,2.0,, Dagoretti North
+40000,90.0,2.0,2.0, Kiambaa
+40000,2.0,2.0,, Thika Road
+40000,2.0,2.0,1.0, Langata
+40000,51.0,3.0,, Dagoretti South
+40000,100.0,2.0,2.0, Kiambaa
+40000,4000.0,2.0,2.0, Kiambaa
+40000,2.0,2.0,2.0, Kiambaa
+40000,3.0,3.0,2.0, Kiambaa
+40000,2024.0,3.0,2.0, Kiambaa
+40000,2.0,2.0,1.0, Makadara
+40000,2.0,2.0,2.0, Dagoretti North
+40000,2.0,2.0,2.0, Kiambaa
+40000,1.0,1.0,1.0, Dagoretti North
+40000,2.0,2.0,2.0, Langata
+40000,3.0,3.0,2.0, Kangundo
+40000,2.0,2.0,2.0, Kiambaa
+40000,3.0,3.0,2.0, Athi River
+42000,3.0,3.0,2.0, Kiambaa
+42500,35.0,2.0,1.0, Dagoretti South
+43000,2.0,2.0,2.0, Roysambu
+43000,2.0,2.0,3.0, Thika Road
+43000,2.0,2.0,2.0, Kiambaa
+43500,2.0,2.0,2.0, Dagoretti North
+44000,2.0,2.0,1.0, Starehe
+44000,2.0,2.0,4.0, Mombasa Road
+45000,1.0,1.0,1.0, Ngong Road
+45000,20235.0,2.0,2.0, Kiambaa
+45000,3.0,3.0,2.0, Dagoretti North
+45000,95.0,2.0,2.0, Roysambu
+45000,4500.0,2.0,2.0, Langata
+45000,2.0,2.0,2.0, Dagoretti North
+45000,3.0,3.0,, Kiambaa
+45000,2.0,2.0,, Kiambaa
+45000,3.0,3.0,2.0, Westlands
+45000,2.0,2.0,, Langata
+45000,3.0,3.0,, Kasarani
+45000,3.0,3.0,, Athi River
+45000,3.0,3.0,, Athi River
+45000,3.0,3.0,, Starehe
+45000,2.0,2.0,2.0, Thindigua
+45000,2.0,2.0,2.0, Kiambaa
+45000,2500.0,3.0,2.0, Nyali
+45000,2.0,2.0,2.0, Langata
+45000,2.0,2.0,2.0, Langata
+45000,1.0,1.0,1.0, Dagoretti North
+45000,3.0,3.0,, Embakasi
+45000,3.0,3.0,4.0, Athi River
+45000,2.0,2.0,2.0, Kiambu Road
+45000,4.0,4.0,4.0, Kiambu Constituency
+45000,4000.0,3.0,2.0, Kiambaa
+45000,1.0,2.0,2.0, Kiambaa
+45000,3.0,3.0,3.0, Nyali
+45000,2.0,2.0,1.0, Ngong Road
+45000,35.0,1.0,1.0, Dagoretti North
+45000,2.0,2.0,, Langata
+45000,1.0,1.0,1.0, Dagoretti North
+45000,2.0,2.0,, Westlands
+45000,3.0,3.0,, Langata
+45000,2.0,2.0,2.0, Kiambu Road
+45000,2.0,2.0,, Westlands
+45000,3.0,3.0,2.0, Westlands
+45000,3.0,3.0,2.0, Westlands
+46500,2.0,2.0,2.0, Kiambu Road
+47000,3.0,3.0,2.0, Kiambaa
+48000,2.0,2.0,, Langata
+48000,2.0,2.0,3.0, Ngong Road
+48000,1.0,1.0,1.0, Dagoretti North
+48000,48.0,2.0,1.0, Langata
+48000,4500.0,2.0,2.0, Langata
+48000,3.0,3.0,2.0, Langata
+50000,10118.0,3.0,2.0, Kiambaa
+50000,130.0,3.0,3.0, Nyali
+50000,2.0,2.0,2.0, Westlands
+50000,2.0,2.0,, Dagoretti North
+50000,3.0,3.0,2.0, Westlands
+50000,3.0,3.0,3.0, Kiambu Road
+50000,150.0,3.0,1.0, Langata
+50000,130.0,3.0,2.0, Kiambaa
+50000,1.0,1.0,, Westlands
+50000,4500.0,2.0,2.0, Langata
+50000,3.0,3.0,2.0, Ngong Road
+50000,3.0,3.0,2.0, Ngong Road
+50000,2.0,2.0,2.0, Kiambu Road
+50000,80.0,2.0,2.0, Kiambu Road
+50000,1.0,1.0,1.0, Kiambu Road
+50000,3.0,3.0,, Embakasi
+50000,3.0,3.0,2.0, Langata
+50000,1.0,1.0,1.0, Westlands
+50000,300.0,3.0,3.0, Kiambu Road
+50000,3.0,3.0,, Thindigua
+50000,2.0,2.0,, Langata
+50000,3.0,3.0,2.0, Embakasi
+50000,2.0,2.0,1.0, Westlands
+50000,1.0,1.0,1.0, Langata
+50000,3.0,3.0,3.0, Kajiado North
+50000,3.0,3.0,3.0, Kiambu Road
+50000,1.0,1.0,, Dagoretti North
+50000,0.0,0.0,1.0, Westlands
+51000,3.0,3.0,3.0, Kiambaa
+52000,2.0,2.0,2.0, Dagoretti North
+52000,300.0,2.0,3.0, Kiambu Road
+52000,2.0,2.0,2.0, Kiambu Road
+52500,2.0,2.0,1.0, Dagoretti North
+54000,20235.0,3.0,3.0, Kiambaa
+54000,3.0,3.0,2.0, Kiambaa
+55000,94.0,2.0,2.0, Dagoretti South
+55000,2.0,2.0,2.0, Dagoretti North
+55000,1.0,1.0,1.0, Dagoretti North
+55000,3.0,3.0,1.0, Westlands
+55000,2.0,2.0,2.0, Dagoretti North
+55000,1.0,1.0,2.0, Westlands
+55000,3.0,3.0,2.0, Kiambu Road
+55000,3.0,3.0,3.0, Thindigua
+55000,2.0,2.0,2.0, Roysambu
+55000,3.0,3.0,2.0, Dagoretti North
+55000,2000.0,2.0,2.0, Nyali
+55000,2.0,2.0,2.0, Kiambu Road
+55000,2.0,2.0,1.0, Ngong Road
+55000,2.0,2.0,2.0, Dagoretti North
+55000,1.0,1.0,1.0, Dagoretti North
+55000,3.0,3.0,2.0, Dagoretti South
+55000,2.0,2.0,, Nyali
+55000,260.0,3.0,3.0, Kiambu Road
+55000,107.0,2.0,2.0, Westlands
+55000,1.0,1.0,1.0, Dagoretti North
+55000,8094.0,3.0,2.0, Kiambaa
+55000,40470.0,2.0,3.0, Westlands
+55000,1.0,1.0,2.0, Dagoretti North
+55000,2.0,2.0,2.0, Dagoretti North
+55000,3.0,3.0,2.0, Dagoretti North
+55000,3.0,3.0,3.0, Dagoretti North
+55000,1.0,1.0,1.0, Westlands
+55000,2.0,2.0,2.0, Westlands
+55000,3.0,3.0,2.0, Roysambu
+55000,3.0,3.0,2.0, Mombasa CBD
+55000,1.0,1.0,2.0, Nyali
+55000,3.0,3.0,, Roysambu
+55000,3.0,3.0,4.0, Kiambu Road
+55000,3.0,3.0,, Kiambu Road
+55000,2.0,2.0,2.0, Westlands
+55000,110.0,2.0,2.0, Westlands
+55000,3.0,3.0,4.0, Nyali
+55000,2.0,2.0,2.0, Dagoretti North
+55000,2.0,2.0,2.0, Westlands
+55000,95.0,2.0,2.0, Langata
+55000,2.0,2.0,2.0, Westlands
+55000,3.0,3.0,3.0, Thindigua
+55000,2.0,2.0,2.0, Dagoretti North
+55000,80.0,2.0,2.0, Kiambu Road
+55000,1.0,1.0,1.0, Dagoretti North
+55000,3.0,3.0,4.0, Dagoretti North
+55000,3.0,3.0,3.0, Dagoretti North
+55000,2.0,2.0,, Dagoretti North
+55000,2.0,2.0,, Dagoretti North
+55000,2.0,2.0,2.0, Nyali
+55000,2.0,2.0,1.0, Langata
+55000,3.0,3.0,3.0, Kabete
+56000,3.0,3.0,2.0, Kiambu Road
+56000,3.0,3.0,4.0, Thindigua
+57750,4.0,4.0,2.0, Roysambu
+58000,2.0,2.0,, Dagoretti North
+58500,3.0,3.0,2.0, Westlands
+59000,2.0,2.0,, Westlands
+60000,125.0,3.0,3.0, Westlands
+60000,3.0,3.0,2.0, Dagoretti North
+60000,1.0,1.0,1.0, Dagoretti North
+60000,1.0,1.0,1.0, Dagoretti North
+60000,3.0,3.0,2.0, Ngong
+60000,2.0,2.0,2.0, Dagoretti North
+60000,2.0,2.0,1.0, Dagoretti North
+60000,2.0,2.0,, Dagoretti North
+60000,2.0,2.0,2.0, Dagoretti North
+60000,2.0,2.0,, Dagoretti North
+60000,3.0,3.0,2.0, Dagoretti North
+60000,2.0,2.0,2.0, Dagoretti North
+60000,2.0,2.0,2.0, Dagoretti North
+60000,2.0,2.0,2.0, Dagoretti North
+60000,51.0,1.0,1.0, Dagoretti North
+60000,2.0,2.0,2.0, Westlands
+60000,2.0,2.0,, Dagoretti North
+60000,2.0,2.0,, Dagoretti North
+60000,129.0,3.0,2.0, Westlands
+60000,2.0,2.0,2.0, Westlands
+60000,2.0,2.0,1.0, Dagoretti North
+60000,8000.0,3.0,2.0, Thindigua
+60000,3.0,3.0,3.0, Kiambaa
+60000,2.0,2.0,2.0, Westlands
+60000,3.0,3.0,2.0, Westlands
+60000,3.0,3.0,2.0, Westlands
+60000,110.0,2.0,2.0, Dagoretti North
+60000,3.0,3.0,2.0, Dagoretti North
+60000,3.0,3.0,, Dagoretti North
+60000,3.0,3.0,2.0, Westlands
+60000,150.0,2.0,2.0, Langata
+60000,3.0,3.0,3.0, Westlands
+60000,3.0,3.0,2.0, Dagoretti North
+60000,4.0,4.0,4.0, Kiambu Road
+60000,2.0,2.0,1.0, Langata
+60000,2.0,2.0,2.0, Westlands
+60000,3.0,3.0,, Kiambaa
+60000,3.0,3.0,2.0, Starehe
+60000,1.0,1.0,1.0, Westlands
+60000,89.0,2.0,2.0, Ngong Road
+60000,2500.0,3.0,2.0, Nyali
+60000,2.0,2.0,2.0, Westlands
+60000,2.0,2.0,2.0, Dagoretti North
+60000,2.0,2.0,, Dagoretti North
+60000,2.0,2.0,2.0, Dagoretti North
+60000,2.0,2.0,, Dagoretti North
+60000,120.0,3.0,2.0, Kiambu Road
+60000,1.0,1.0,1.0, Westlands
+60500,2.0,2.0,2.0, Westlands
+62000,3.0,3.0,2.0, Ngong Road
+62500,2.0,2.0,2.0, Westlands
+65000,90.0,1.0,1.0, Dagoretti North
+65000,90.0,1.0,1.0, Dagoretti North
+65000,2.0,2.0,2.0, Dagoretti North
+65000,2.0,2.0,1.0, Dagoretti North
+65000,2.0,2.0,2.0, Dagoretti North
+65000,2000.0,3.0,2.0, Nyali
+65000,2.0,2.0,2.0, Dagoretti North
+65000,3.0,3.0,2.0, Dagoretti North
+65000,2.0,2.0,2.0, Westlands
+65000,3.0,3.0,3.0, Westlands
+65000,2.0,2.0,, Dagoretti North
+65000,2.0,2.0,2.0, Dagoretti North
+65000,2.0,2.0,, Dagoretti North
+65000,2.0,2.0,, Dagoretti North
+65000,2.0,2.0,, Dagoretti North
+65000,2.0,2.0,, Dagoretti North
+65000,80.0,1.0,, Dagoretti North
+65000,3.0,3.0,2.0, Westlands
+65000,3.0,3.0,, Westlands
+65000,157.0,2.0,1.0, Westlands
+65000,3.0,3.0,, Langata
+65000,1.0,1.0,1.0, Dagoretti North
+65000,1.0,1.0,1.0, Dagoretti North
+65000,2.0,2.0,2.0, Langata
+65000,127.0,2.0,2.0, Westlands
+65000,111.0,2.0,2.0, Dagoretti North
+65000,100.0,1.0,1.0, Dagoretti North
+65000,3.0,3.0,2.0, Dagoretti North
+65000,3.0,3.0,2.0, Westlands
+65000,2.0,2.0,2.0, Dagoretti North
+65000,3.0,3.0,2.0, Dagoretti North
+65000,3.0,3.0,3.0, Westlands
+65000,1.0,1.0,, Mombasa Road
+65000,2.0,2.0,2.0, Dagoretti North
+65000,2.0,2.0,2.0, Westlands
+65000,2.0,2.0,, Dagoretti North
+65000,2.0,2.0,3.0, Dagoretti North
+65000,2.0,2.0,, Westlands
+65000,3.0,3.0,, Nyali
+65000,2.0,2.0,2.0, Dagoretti North
+65000,2.0,2.0,2.0, Dagoretti North
+65000,2.0,2.0,, Dagoretti North
+65000,2.0,2.0,2.0, Dagoretti North
+65000,2.0,2.0,2.0, Dagoretti North
+65000,1.0,1.0,2.0, Dagoretti North
+65000,2.0,2.0,2.0, Dagoretti North
+65000,3.0,3.0,2.0, Dagoretti North
+65000,2.0,2.0,2.0, Dagoretti North
+65000,177.0,3.0,3.0, Dagoretti North
+65000,3.0,3.0,3.0, Westlands
+65000,3.0,3.0,2.0, Ngong Road
+65000,1.0,1.0,1.0, Dagoretti North
+65000,2.0,2.0,2.0, Dagoretti North
+65000,1.0,1.0,1.0, Dagoretti North
+65000,2.0,2.0,2.0, Dagoretti North
+65000,3.0,3.0,2.0, Dagoretti North
+65000,2.0,2.0,2.0, Dagoretti North
+65000,2.0,2.0,2.0, Dagoretti North
+65000,3.0,3.0,2.0, Westlands
+65000,2.0,2.0,2.0, Dagoretti North
+65000,2000.0,3.0,2.0, Nyali
+65000,2.0,2.0,, Westlands
+65000,2.0,2.0,2.0, Dagoretti North
+65000,2.0,2.0,2.0, Dagoretti North
+65000,2.0,2.0,2.0, Dagoretti North
+65000,3.0,3.0,, Dagoretti North
+65000,3.0,3.0,, Thindigua
+65000,2.0,2.0,, Dagoretti North
+65000,100.0,2.0,2.0, Westlands
+65000,2.0,2.0,, Dagoretti North
+65000,0.0,0.0,1.0, Langata
+65000,105.0,2.0,, Dagoretti North
+65000,3.0,3.0,2.0, Dagoretti North
+65000,3.0,3.0,, Dagoretti North
+66000,3.0,3.0,1.0, Kiambu Road
+66000,117.0,3.0,2.0, Ngong Road
+67000,2300.0,3.0,3.0, Westlands
+67000,2.0,2.0,2.0, Dagoretti North
+67500,2.0,2.0,2.0, Westlands
+67500,3.0,3.0,2.0, Dagoretti North
+68000,3.0,3.0,2.0, Dagoretti North
+68000,2.0,2.0,2.0, Dagoretti North
+69997,2.0,2.0,2.0, Westlands
+70000,2.0,2.0,2.0, Dagoretti North
+70000,2.0,2.0,, Dagoretti North
+70000,2.0,2.0,, Dagoretti North
+70000,3.0,3.0,3.0, Dagoretti North
+70000,3.0,3.0,2.0, Dagoretti North
+70000,120.0,3.0,2.0, Kiambu Road
+70000,3.0,3.0,3.0, Kiambu Road
+70000,3.0,3.0,2.0, Kiambu Road
+70000,3.0,3.0,2.0, Kiambu Road
+70000,3.0,3.0,2.0, Dagoretti North
+70000,3.0,3.0,2.0, Dagoretti North
+70000,3.0,3.0,2.0, Dagoretti North
+70000,3.0,3.0,2.0, Dagoretti North
+70000,3.0,3.0,2.0, Dagoretti North
+70000,3.0,3.0,2.0, Roysambu
+70000,135.0,3.0,, Westlands
+70000,2.0,2.0,2.0, Dagoretti North
+70000,2.0,2.0,, Dagoretti North
+70000,3.0,3.0,, Thika Road
+70000,85.0,2.0,2.0, Dagoretti North
+70000,2.0,2.0,, Dagoretti North
+70000,2.0,2.0,, Dagoretti North
+70000,2.0,2.0,3.0, Milimani
+70000,3.0,3.0,2.0, Westlands
+70000,3.0,3.0,2.0, Kiambu Road
+70000,149.0,2.0,2.0, Westlands
+70000,3.0,3.0,2.0, Dagoretti North
+70000,4.0,4.0,3.0, Mvita
+70000,2.0,2.0,3.0, Westlands
+70000,3.0,3.0,, Dagoretti North
+70000,3.0,3.0,2.0, Dagoretti North
+70000,4.0,4.0,4.0, Roysambu
+70000,2.0,2.0,, Westlands
+70000,3.0,3.0,2.0, Kiambaa
+70000,6.0,2.0,2.0, Westlands
+70000,2.0,2.0,, Westlands
+70000,3.0,3.0,, Dagoretti North
+70000,125.0,3.0,2.0, Dagoretti North
+70000,2160.0,3.0,4.0, Nyali
+70000,2.0,2.0,3.0, Dagoretti North
+70000,2.0,2.0,2.0, Dagoretti North
+70000,2.0,2.0,2.0, Westlands
+70000,3.0,3.0,, Westlands
+70000,2.0,2.0,, Dagoretti North
+70000,2.0,2.0,2.0, Dagoretti North
+70000,3.0,3.0,2.0, Dagoretti North
+70000,3.0,3.0,3.0, Dagoretti North
+70000,2.0,2.0,3.0, Westlands
+70000,3.0,3.0,2.0, Westlands
+70000,3.0,3.0,3.0, Dagoretti North
+70000,15.0,3.0,, Dagoretti North
+70000,140.0,2.0,, Dagoretti North
+70000,90.0,1.0,, Dagoretti North
+70000,3.0,3.0,2.0, Ngong Road
+70000,177.0,3.0,3.0, Westlands
+70000,2.0,2.0,2.0, Dagoretti North
+70000,3.0,3.0,2.0, Dagoretti North
+70000,3.0,3.0,2.0, Westlands
+70000,2.0,2.0,1.0, Dagoretti North
+70000,113.0,3.0,2.0, Ngong Road
+70000,3.0,3.0,2.0, Westlands
+70000,1000.0,2.0,2.0, Dagoretti North
+70000,100.0,2.0,2.0, Dagoretti North
+70000,1.0,1.0,1.0, Dagoretti North
+70000,3.0,3.0,3.0, Dagoretti North
+70000,3.0,3.0,2.0, Dagoretti North
+70000,4.0,4.0,5.0, Kiambu Road
+70000,4.0,4.0,5.0, Kiambu Road
+70000,2.0,2.0,, Westlands
+70000,4.0,4.0,5.0, Langata
+70000,140.0,3.0,, Dagoretti North
+70000,120.0,2.0,, Dagoretti North
+72000,3.0,3.0,3.0, Kiambu Road
+72500,2.0,2.0,2.0, Dagoretti North
+73000,3.0,3.0,4.0, Kisauni
+75000,2.0,2.0,2.0, Westlands
+75000,3.0,3.0,3.0, Thindigua
+75000,158.0,2.0,2.0, Westlands
+75000,3.0,3.0,2.0, Dagoretti North
+75000,3.0,3.0,2.0, Dagoretti North
+75000,3.0,3.0,3.0, Dagoretti North
+75000,158.0,2.0,2.0, Westlands
+75000,2.0,2.0,2.0, Dagoretti North
+75000,2.0,2.0,2.0, Dagoretti North
+75000,3.0,3.0,2.0, Dagoretti North
+75000,2.0,2.0,2.0, Westlands
+75000,3.0,3.0,3.0, Dagoretti North
+75000,3.0,3.0,5.0, Dagoretti North
+75000,2.0,2.0,3.0, Dagoretti North
+75000,3.0,3.0,3.0, Westlands
+75000,2.0,2.0,2.0, Dagoretti North
+75000,3.0,3.0,3.0, Westlands
+75000,21780.0,2.0,2.0, Westlands
+75000,70.0,1.0,1.0, Dagoretti North
+75000,2.0,2.0,3.0, Dagoretti North
+75000,4.0,4.0,3.0, Dagoretti North
+75000,2.0,2.0,3.0, Dagoretti North
+75000,3.0,3.0,2.0, Dagoretti North
+75000,3.0,3.0,4.0, Dagoretti North
+75000,3.0,3.0,, Dagoretti North
+75000,120.0,4.0,3.0, Kiambu Road
+75000,2.0,2.0,3.0, Dagoretti North
+75000,3.0,3.0,, Westlands
+75000,1.0,1.0,, Langata
+75000,3.0,3.0,3.0, Westlands
+75000,3.0,3.0,, Dagoretti North
+75000,3.0,3.0,3.0, Dagoretti North
+75000,3.0,3.0,2.0, Dagoretti North
+75000,128.0,3.0,3.0, Dagoretti North
+75000,111.0,3.0,3.0, Dagoretti North
+75000,120.0,2.0,2.0, Dagoretti North
+75000,2.0,2.0,2.0, Westlands
+75000,125.0,3.0,3.0, Westlands
+75000,115.0,3.0,2.0, Dagoretti North
+75000,3.0,3.0,2.0, Westlands
+75000,3.0,3.0,2.0, Dagoretti North
+75000,2.0,2.0,2.0, Dagoretti North
+75000,3.0,3.0,2.0, Westlands
+75000,3.0,3.0,3.0, Dagoretti North
+75000,2.0,2.0,2.0, Dagoretti North
+75000,3.0,3.0,2.0, Dagoretti North
+75000,3.0,3.0,, Dagoretti North
+75000,2.0,2.0,1.0, Westlands
+75000,2.0,2.0,3.0, Westlands
+75000,4.0,4.0,3.0, Dagoretti North
+75000,3.0,3.0,, Dagoretti North
+75000,3.0,3.0,, Dagoretti North
+75000,3.0,3.0,2.0, Dagoretti North
+75000,3.0,3.0,, Dagoretti North
+75000,2.0,2.0,2.0, Kajiado North
+75000,2.0,2.0,2.0, Dagoretti North
+75000,2.0,2.0,3.0, Dagoretti North
+75000,2.0,2.0,, Westlands
+75000,2.0,2.0,2.0, Dagoretti North
+75000,2.0,2.0,2.0, Dagoretti North
+75000,158.0,2.0,2.0, Westlands
+75000,1250.0,2.0,2.0, Dagoretti North
+75000,1250.0,2.0,2.0, Dagoretti North
+75000,3.0,3.0,3.0, Dagoretti North
+75000,3.0,3.0,2.0, Dagoretti North
+75000,3.0,3.0,3.0, Dagoretti North
+75000,4.0,4.0,4.0, Dagoretti North
+75000,2.0,2.0,, Westlands
+75000,3.0,3.0,3.0, Dagoretti North
+75000,2.0,2.0,2.0, Dagoretti North
+75000,2.0,2.0,1.0, Dagoretti North
+75000,3.0,3.0,3.0, Dagoretti North
+75000,2.0,2.0,, Dagoretti North
+75000,3.0,3.0,5.0, Dagoretti North
+75000,2.0,2.0,3.0, Dagoretti North
+75000,3.0,3.0,2.0, Dagoretti North
+75000,3.0,3.0,2.0, Dagoretti North
+75000,3.0,3.0,, Dagoretti North
+75000,2.0,2.0,3.0, Dagoretti North
+75000,4.0,4.0,3.0, Kiambu Road
+75000,3.0,3.0,3.0, Dagoretti North
+75000,2.0,2.0,2.0, Dagoretti North
+75000,3.0,3.0,2.0, Dagoretti North
+75000,3.0,3.0,2.0, Dagoretti North
+75000,2.0,2.0,, Dagoretti North
+75000,3.0,3.0,, Dagoretti North
+75000,3.0,3.0,4.0, Westlands
+75000,3.0,3.0,, Dagoretti North
+75000,1.0,1.0,, Westlands
+75000,2.0,2.0,2.0, Dagoretti North
+75000,4.0,4.0,, Westlands
+75000,3.0,3.0,3.0, Dagoretti North
+75000,3.0,3.0,2.0, Dagoretti North
+75000,3.0,3.0,, Dagoretti North
+75000,2.0,2.0,2.0, Westlands
+75000,125.0,2.0,2.0, Dagoretti North
+75000,3.0,3.0,2.0, Westlands
+75000,2.0,2.0,2.0, Dagoretti North
+76000,3.0,3.0,4.0, Dagoretti North
+77000,371.0,3.0,3.0, Westlands
+77000,3.0,3.0,3.0, Dagoretti North
+78000,123.0,2.0,2.0, Dagoretti North
+78000,2.0,2.0,, Dagoretti North
+78000,3.0,3.0,2.0, Dagoretti North
+79000,3.0,3.0,2.0, Dagoretti North
+80000,150.0,3.0,3.0, Dagoretti North
+80000,2.0,2.0,2.0, Dagoretti North
+80000,2.0,2.0,3.0, Dagoretti North
+80000,3.0,3.0,, Westlands
+80000,3.0,3.0,3.0, Westlands
+80000,3.0,3.0,4.0, Dagoretti North
+80000,125.0,4.0,3.0, Dagoretti North
+80000,3.0,3.0,2.0, Dagoretti North
+80000,3.0,3.0,2.0, Dagoretti North
+80000,3.0,3.0,3.0, Dagoretti North
+80000,4.0,4.0,4.0, Dagoretti North
+80000,2.0,2.0,2.0, Dagoretti North
+80000,3.0,3.0,2.0, Dagoretti North
+80000,3.0,3.0,3.0, Westlands
+80000,3.0,3.0,3.0, Westlands
+80000,1.0,1.0,1.0, Dagoretti North
+80000,1.0,1.0,, Dagoretti North
+80000,3.0,3.0,2.0, Dagoretti North
+80000,3.0,3.0,3.0, Westlands
+80000,1.0,1.0,1.0, Dagoretti North
+80000,1.0,1.0,, Dagoretti North
+80000,3.0,3.0,3.0, Westlands
+80000,3.0,3.0,3.0, Westlands
+80000,186.0,3.0,2.0, Westlands
+80000,3.0,3.0,, Westlands
+80000,2.0,2.0,, Westlands
+80000,1.0,1.0,1.0, Westlands
+80000,2.0,2.0,2.0, Muthaiga
+80000,2.0,2.0,2.0, Dagoretti North
+80000,1.0,1.0,, Dagoretti North
+80000,3.0,3.0,, Dagoretti North
+80000,170.0,3.0,4.0, Dagoretti North
+80000,170.0,3.0,4.0, Dagoretti North
+80000,264.0,3.0,4.0, Mombasa CBD
+80000,3.0,3.0,3.0, Dagoretti North
+80000,3.0,3.0,4.0, Dagoretti North
+80000,2.0,2.0,2.0, Westlands
+80000,2.0,2.0,, Dagoretti North
+80000,2.0,2.0,2.0, Dagoretti North
+80000,2.0,2.0,2.0, Dagoretti North
+80000,3.0,3.0,4.0, Langata
+80000,1000.0,3.0,2.0, Langata
+80000,13.0,2.0,3.0, Dagoretti North
+80000,15.0,3.0,3.0, Dagoretti North
+80000,3.0,3.0,3.0, Dagoretti North
+80000,85.0,2.0,3.0, Dagoretti North
+80000,3.0,3.0,4.0, Dagoretti North
+80000,2.0,2.0,, Westlands
+80000,4.0,4.0,1.0, Ruaraka
+80000,1.0,1.0,2.0, Dagoretti North
+80000,1.0,1.0,1.0, Dagoretti North
+80000,21780.0,2.0,2.0, Westlands
+80000,3.0,3.0,3.0, Westlands
+80000,3.0,3.0,3.0, Kiambaa
+80000,3.0,3.0,, Westlands
+80000,2.0,2.0,, Dagoretti North
+80000,2.0,2.0,, Dagoretti North
+80000,130.0,2.0,, Dagoretti North
+80000,220.0,3.0,3.0, Dagoretti North
+80000,3.0,3.0,2.0, Westlands
+80000,4.0,4.0,3.0, Kiambaa
+80000,3.0,3.0,2.0, Dagoretti North
+80000,2024.0,3.0,2.0, Dagoretti North
+80000,2.0,2.0,2.0, Dagoretti North
+80000,2.0,2.0,2.0, Dagoretti North
+80000,2.0,2.0,2.0, Dagoretti North
+80000,3.0,3.0,2.0, Dagoretti North
+80000,3.0,3.0,2.0, Dagoretti North
+80000,2.0,2.0,2.0, Dagoretti North
+80000,2.0,2.0,2.0, Dagoretti North
+80000,2.0,2.0,2.0, Dagoretti North
+80000,3.0,3.0,3.0, Westlands
+80000,114.0,2.0,2.0, Dagoretti North
+80000,3.0,3.0,4.0, Dagoretti North
+80000,3.0,3.0,4.0, Dagoretti North
+80000,2.0,2.0,, Ngong Road
+80000,3.0,3.0,2.0, Dagoretti North
+80000,3.0,3.0,3.0, Dagoretti North
+80000,2.0,2.0,3.0, Dagoretti North
+80000,4.0,4.0,, Dagoretti North
+80000,2.0,2.0,2.0, Westlands
+80000,120.0,2.0,, Dagoretti North
+80000,120.0,2.0,, Dagoretti North
+80000,3.0,3.0,2.0, Westlands
+80000,3.0,3.0,3.0, Dagoretti North
+80000,3.0,3.0,3.0, Dagoretti North
+83000,3.0,3.0,4.0, Dagoretti North
+85000,2.0,2.0,2.0, Westlands
+85000,3.0,3.0,2.0, Dagoretti North
+85000,2.0,2.0,2.0, Dagoretti North
+85000,1.0,1.0,1.0, Dagoretti North
+85000,1.0,1.0,1.0, Dagoretti North
+85000,1.0,1.0,1.0, Westlands
+85000,3.0,3.0,3.0, Dagoretti North
+85000,1.0,1.0,1.0, Dagoretti North
+85000,3.0,3.0,2.0, Dagoretti North
+85000,2.0,2.0,2.0, Westlands
+85000,3.0,3.0,3.0, Dagoretti North
+85000,3.0,3.0,4.0, Dagoretti North
+85000,2.0,2.0,1.0, Westlands
+85000,2.0,2.0,2.0, Dagoretti North
+85000,2.0,2.0,2.0, Dagoretti North
+85000,2.0,2.0,2.0, Dagoretti North
+85000,3.0,3.0,2.0, Dagoretti North
+85000,2.0,2.0,2.0, Dagoretti North
+85000,3.0,3.0,2.0, Dagoretti North
+85000,21780.0,4.0,4.0, Westlands
+85000,2.0,2.0,2.0, Dagoretti North
+85000,2024.0,3.0,3.0, Dagoretti North
+85000,3.0,3.0,4.0, Dagoretti North
+85000,2.0,2.0,2.0, Dagoretti North
+85000,2.0,2.0,2.0, Dagoretti North
+85000,3.0,3.0,2.0, Dagoretti North
+85000,4.0,4.0,, Thika Road
+85000,3.0,3.0,3.0, Dagoretti North
+85000,2.0,2.0,3.0, Dagoretti North
+85000,2.0,2.0,2.0, Westlands
+85000,2.0,2.0,3.0, Dagoretti North
+85000,130.0,3.0,4.0, Dagoretti North
+85000,3.0,3.0,3.0, Dagoretti North
+85000,3.0,3.0,, Westlands
+85000,186.0,3.0,3.0, Dagoretti North
+85000,3.0,3.0,2.0, Dagoretti North
+85000,3.0,3.0,3.0, Dagoretti North
+85000,2.0,2.0,2.0, Westlands
+85000,3.0,3.0,2.0, Dagoretti North
+85000,3.0,3.0,4.0, Westlands
+85000,2.0,2.0,2.0, Westlands
+85000,4.0,4.0,4.0, Dagoretti North
+85000,21780.0,3.0,3.0, Westlands
+85000,100.0,3.0,2.0, Dagoretti North
+85000,2023.0,3.0,3.0, Dagoretti North
+85000,3.0,3.0,, Dagoretti North
+85000,3.0,3.0,4.0, Dagoretti North
+85000,1.0,1.0,, Dagoretti North
+85000,3.0,3.0,3.0, Westlands
+85000,3.0,3.0,5.0, Dagoretti North
+85000,2.0,2.0,2.0, Dagoretti North
+85000,3.0,3.0,3.0, Dagoretti North
+85000,186.0,3.0,3.0, Westlands
+85000,3.0,3.0,3.0, Muthaiga
+85000,3.0,3.0,3.0, Dagoretti North
+85000,23.0,3.0,4.0, Dagoretti North
+85000,2.0,2.0,2.0, Dagoretti North
+85000,3.0,3.0,2.0, Westlands
+85000,1.0,1.0,2.0, Westlands
+85000,2.0,2.0,3.0, Dagoretti North
+85000,2.0,2.0,2.0, Dagoretti North
+85000,2.0,2.0,3.0, Dagoretti North
+85000,2.0,2.0,2.0, Dagoretti North
+85000,162.0,4.0,4.0, Thika Road
+85000,1.0,1.0,1.0, Westlands
+85000,125.0,3.0,2.0, Dagoretti North
+85000,3.0,3.0,2.0, Dagoretti North
+85000,3.0,3.0,4.0, Dagoretti North
+85000,2.0,2.0,2.0, Dagoretti North
+85000,2.0,2.0,3.0, Westlands
+85000,2024.0,3.0,3.0, Dagoretti North
+85000,3.0,3.0,, Dagoretti North
+85000,2.0,2.0,2.0, Kiambu Road
+85000,2.0,2.0,2.0, Dagoretti North
+85000,3.0,3.0,3.0, Dagoretti North
+85000,150.0,3.0,3.0, Westlands
+86000,3.0,3.0,2.0, Dagoretti North
+86000,3.0,3.0,3.0, Dagoretti North
+87000,3.0,3.0,, Westlands
+87000,2.0,2.0,2.0, Westlands
+88000,2500.0,3.0,4.0, Nyali
+88000,2645.0,3.0,4.0, Nyali
+88000,160.0,3.0,3.0, Dagoretti North
+88000,2500.0,3.0,4.0, Nyali
+89000,3.0,3.0,1.0, Westlands
+89996,120.0,2.0,1.0, Westlands
+90000,1.0,1.0,1.0, Dagoretti North
+90000,1.0,1.0,, Dagoretti North
+90000,4047.0,1.0,1.0, Dagoretti North
+90000,186.0,3.0,3.0, Westlands
+90000,186.0,3.0,3.0, Westlands
+90000,3.0,3.0,4.0, Dagoretti North
+90000,140.0,3.0,4.0, Dagoretti North
+90000,297.0,3.0,4.0, Dagoretti North
+90000,13.0,2.0,2.0, Westlands
+90000,250.0,3.0,3.0, Westlands
+90000,2.0,2.0,3.0, Dagoretti North
+90000,3.0,3.0,2.0, Dagoretti North
+90000,2.0,2.0,, Westlands
+90000,3.0,3.0,, Dagoretti North
+90000,3.0,3.0,, Dagoretti North
+90000,2.0,2.0,2.0, Westlands
+90000,3.0,3.0,3.0, Dagoretti North
+90000,2.0,2.0,2.0, Dagoretti North
+90000,2.0,2.0,2.0, Dagoretti North
+90000,3.0,3.0,3.0, Westlands
+90000,2.0,2.0,2.0, Westlands
+90000,1400.0,2.0,3.0, Dagoretti North
+90000,2.0,2.0,2.0, Nyali
+90000,3.0,3.0,, Dagoretti North
+90000,3.0,3.0,, Dagoretti North
+90000,2500.0,3.0,3.0, Westlands
+90000,3.0,3.0,, Dagoretti North
+90000,2.0,2.0,2.0, Westlands
+90000,2.0,2.0,, Kiambu Road
+90000,4.0,4.0,4.0, Westlands
+90000,1.0,1.0,, Westlands
+90000,2.0,2.0,2.0, Westlands
+90000,3.0,3.0,, Westlands
+90000,3.0,3.0,4.0, Dagoretti North
+90000,3.0,3.0,4.0, Dagoretti North
+90000,2.0,2.0,2.0, Dagoretti North
+90000,3.0,3.0,2.0, Dagoretti North
+90000,3.0,3.0,2.0, Westlands
+90000,1.0,1.0,, Westlands
+90000,3.0,3.0,3.0, Dagoretti North
+90000,3.0,3.0,2.0, Kiambaa
+90000,3.0,3.0,3.0, Westlands
+90000,3.0,3.0,3.0, Westlands
+90000,200.0,3.0,, Dagoretti North
+90000,3.0,3.0,2.0, Westlands
+90000,3.0,3.0,2.0, Westlands
+90000,105.0,2.0,2.0, Dagoretti North
+90000,186.0,3.0,3.0, Westlands
+90000,1.0,1.0,1.0, Dagoretti North
+90000,130.0,2.0,3.0, Dagoretti North
+90000,3.0,3.0,3.0, Milimani
+90000,3.0,3.0,2.0, Dagoretti North
+90000,3.0,3.0,2.0, Dagoretti North
+90000,140.0,2.0,3.0, Westlands
+90000,1.0,1.0,, Westlands
+90000,3.0,3.0,4.0, Dagoretti North
+90000,250.0,3.0,3.0, Dagoretti North
+90000,232.0,3.0,2.0, Dagoretti North
+90000,110.0,2.0,2.0, Dagoretti North
+90000,3.0,3.0,3.0, Dagoretti North
+90000,3.0,3.0,3.0, Westlands
+90000,3.0,3.0,2.0, Dagoretti North
+90000,3.0,3.0,3.0, Langata
+90000,3.0,3.0,, Dagoretti North
+90000,250.0,3.0,3.0, Dagoretti North
+90000,3.0,3.0,3.0, Dagoretti North
+90000,3.0,3.0,4.0, Ngong Road
+90000,3.0,3.0,2.0, Dagoretti North
+90000,3.0,3.0,2.0, Dagoretti North
+90000,3.0,3.0,2.0, Dagoretti North
+90000,2.0,2.0,2.0, Westlands
+90000,3.0,3.0,3.0, Ngong Road
+90000,1.0,1.0,, Westlands
+90000,9.0,1.0,2.0, Westlands
+90000,9.0,1.0,2.0, Westlands
+90000,1400.0,2.0,3.0, Nyali
+90000,3.0,3.0,2.0, Westlands
+90000,2.0,2.0,3.0, Dagoretti North
+90000,3.0,3.0,3.0, Westlands
+90000,3.0,3.0,3.0, Dagoretti North
+90000,3.0,3.0,, Dagoretti North
+90000,3.0,3.0,5.0, Dagoretti North
+90000,3.0,3.0,3.0, Dagoretti North
+90000,3.0,3.0,3.0, Dagoretti North
+90000,2.0,2.0,2.0, Dagoretti North
+90000,94.0,2.0,3.0, Dagoretti North
+90000,2.0,2.0,2.0, Dagoretti North
+90000,3.0,3.0,, Dagoretti North
+90000,2.0,2.0,, Dagoretti North
+90000,3.0,3.0,3.0, Dagoretti North
+90000,3.0,3.0,3.0, Dagoretti North
+90000,3.0,3.0,3.0, Dagoretti North
+90000,220.0,3.0,3.0, Dagoretti North
+90000,11.0,3.0,2.0, Westlands
+90000,1.0,1.0,1.0, Westlands
+90000,4.0,4.0,5.0, Dagoretti North
+90000,150.0,2.0,2.0, Dagoretti North
+90000,1.0,1.0,, Dagoretti North
+90000,1.0,1.0,1.0, Westlands
+90000,2.0,2.0,2.0, Dagoretti North
+90000,167.0,3.0,, Westlands
+90000,3.0,3.0,3.0, Dagoretti North
+90000,3.0,3.0,3.0, Westlands
+90000,3.0,3.0,4.0, Dagoretti North
+90000,4.0,4.0,5.0, Dagoretti North
+90000,3.0,3.0,3.0, Dagoretti North
+90000,4.0,4.0,4.0, Dagoretti North
+90000,2.0,2.0,2.0, Dagoretti North
+95000,185.0,3.0,3.0, Westlands
+95000,2.0,2.0,2.0, Westlands
+95000,156.0,3.0,3.0, Dagoretti North
+95000,7.0,1.0,1.0, Westlands
+95000,149.0,2.0,2.0, Dagoretti North
+95000,4.0,4.0,4.0, Dagoretti North
+95000,2.0,2.0,, Westlands
+95000,2.0,2.0,, Dagoretti North
+95000,3.0,3.0,, Dagoretti North
+95000,3.0,3.0,, Dagoretti North
+95000,3.0,3.0,2.0, Dagoretti North
+95000,3.0,3.0,3.0, Dagoretti North
+95000,3.0,3.0,3.0, Dagoretti North
+95000,2.0,2.0,2.0, Westlands
+95000,2.0,2.0,2.0, Westlands
+95000,2.0,2.0,2.0, Dagoretti North
+95000,2.0,2.0,2.0, Westlands
+95000,186.0,3.0,2.0, Dagoretti North
+95000,2.0,2.0,2.0, Dagoretti North
+95000,2.0,2.0,, Westlands
+95000,2.0,2.0,2.0, Dagoretti North
+95000,7.0,1.0,1.0, Westlands
+95000,8.0,1.0,1.0, Westlands
+95000,3.0,3.0,4.0, Dagoretti North
+95000,3.0,3.0,2.0, Dagoretti North
+95000,3.0,3.0,2.0, Dagoretti North
+95000,3.0,3.0,2.0, Dagoretti North
+95000,1.0,1.0,1.0, Kiambu Road
+95000,3.0,3.0,3.0, Dagoretti North
+95000,1.0,1.0,1.0, Westlands
+95000,3.0,3.0,, Dagoretti North
+95000,3.0,3.0,2.0, Westlands
+95000,95.0,2.0,2.0, Dagoretti North
+95000,108.0,2.0,2.0, Dagoretti North
+95000,3.0,3.0,2.0, Westlands
+95000,3.0,3.0,3.0, Dagoretti North
+95000,3.0,3.0,4.0, Dagoretti North
+95000,4047.0,3.0,, Dagoretti North
+95000,120.0,1.0,1.0, Westlands
+95000,130.0,2.0,2.0, Westlands
+95000,4.0,4.0,, Westlands
+95000,3.0,3.0,3.0, Dagoretti North
+95000,3.0,3.0,3.0, Dagoretti North
+95000,3.0,3.0,3.0, Dagoretti North
+95000,4.0,4.0,5.0, Dagoretti North
+95000,170.0,3.0,3.0, Dagoretti North
+95000,3.0,3.0,4.0, Dagoretti North
+95000,3.0,3.0,, Dagoretti North
+95000,3.0,3.0,, Dagoretti North
+95000,2.0,2.0,2.0, Mombasa Road
+95000,3.0,3.0,3.0, Dagoretti North
+96000,4.0,4.0,2.0, Dagoretti North
+98000,150.0,3.0,3.0, Dagoretti North
+98000,3.0,3.0,3.0, Dagoretti North
+98000,4.0,4.0,4.0, Westlands
+98000,3.0,3.0,4.0, Dagoretti North
+98000,3.0,3.0,3.0, Dagoretti North
+98000,3.0,3.0,3.0, Dagoretti North
+100000,3.0,3.0,2.0, Dagoretti North
+100000,300.0,3.0,4.0, Dagoretti North
+100000,14.0,2.0,2.0, Dagoretti North
+100000,3.0,3.0,, Dagoretti North
+100000,170.0,3.0,4.0, Dagoretti North
+100000,230.0,3.0,4.0, Dagoretti North
+100000,23.0,3.0,3.0, Westlands
+100000,250.0,3.0,3.0, Dagoretti North
+100000,120.0,1.0,1.0, Dagoretti North
+100000,1.0,1.0,1.0, Dagoretti North
+100000,5.0,5.0,6.0, Dagoretti North
+100000,2.0,2.0,2.0, Dagoretti North
+100000,3.0,3.0,4.0, Dagoretti North
+100000,260.0,3.0,4.0, Dagoretti North
+100000,3.0,3.0,4.0, Dagoretti North
+100000,1.0,1.0,1.0, Westlands
+100000,2700.0,3.0,4.0, Nyali
+100000,4.0,4.0,, Westlands
+100000,3.0,3.0,2.0, Dagoretti North
+100000,3.0,3.0,3.0, Dagoretti North
+100000,21780.0,3.0,3.0, Westlands
+100000,4.0,4.0,3.0, Westlands
+100000,3.0,3.0,2.0, Westlands
+100000,180.0,3.0,4.0, Dagoretti North
+100000,160.0,3.0,5.0, Dagoretti North
+100000,260.0,3.0,4.0, Dagoretti North
+100000,3.0,3.0,4.0, Dagoretti North
+100000,1.0,1.0,1.0, Westlands
+100000,4.0,4.0,, Westlands
+100000,3.0,3.0,3.0, Westlands
+100000,2.0,2.0,2.0, Westlands
+100000,3.0,3.0,, Westlands
+100000,3.0,3.0,, Westlands
+100000,3.0,3.0,4.0, Westlands
+100000,3.0,3.0,3.0, Dagoretti North
+100000,2.0,2.0,2.0, Langata
+100000,3.0,3.0,2.0, Dagoretti North
+100000,3.0,3.0,3.0, Dagoretti North
+100000,3.0,3.0,3.0, Dagoretti North
+100000,2.0,2.0,3.0, Milimani
+100000,3.0,3.0,, Westlands
+100000,3.0,3.0,3.0, Dagoretti North
+100000,3.0,3.0,3.0, Westlands
+100000,3.0,3.0,2.0, Westlands
+100000,4.0,4.0,3.0, Dagoretti North
+100000,4.0,4.0,, Dagoretti North
+100000,121.0,3.0,2.0, Milimani
+100000,14.0,2.0,3.0, Dagoretti North
+100000,1.0,1.0,1.0, Dagoretti North
+100000,3.0,3.0,4.0, Dagoretti North
+100000,4.0,4.0,3.0, Westlands
+100000,3.0,3.0,2.0, Westlands
+100000,2.0,2.0,, Dagoretti North
+100000,2.0,2.0,1.0, Westlands
+100000,4.0,4.0,4.0, Dagoretti North
+100000,3.0,3.0,3.0, Dagoretti North
+100000,3.0,3.0,2.0, Westlands
+100000,3.0,3.0,2.0, Dagoretti North
+100000,4.0,4.0,4.0, Dagoretti North
+100000,3.0,3.0,3.0, Dagoretti North
+100000,3.0,3.0,3.0, Dagoretti North
+100000,3.0,3.0,3.0, Dagoretti North
+100000,3.0,3.0,, Westlands
+100000,2.0,2.0,2.0, Westlands
+100000,158.0,3.0,, Dagoretti North
+100000,2500.0,2.0,2.0, Nyali
+100000,124.0,2.0,3.0, Dagoretti North
+100000,3.0,3.0,2.0, Westlands
+100000,2.0,2.0,3.0, Dagoretti North
+100000,3.0,3.0,3.0, Westlands
+100000,2.0,2.0,, Westlands
+100000,2.0,2.0,2.0, Westlands
+100000,2.0,2.0,2.0, Westlands
+100000,1.0,1.0,1.0, Dagoretti North
+100000,186.0,3.0,3.0, Westlands
+100000,2.0,2.0,2.0, Westlands
+100000,3.0,3.0,2.0, Dagoretti North
+100000,3.0,3.0,4.0, Dagoretti North
+100000,3.0,3.0,3.0, Westlands
+100000,3.0,3.0,, Westlands
+100000,2.0,2.0,3.0, Dagoretti North
+100000,3.0,3.0,2.0, Westlands
+100000,120.0,1.0,2.0, Westlands
+100000,2.0,2.0,1.0, Westlands
+100000,4.0,4.0,4.0, Westlands
+100000,3.0,3.0,, Westlands
+100000,2.0,2.0,, Westlands
+100000,2.0,2.0,, Dagoretti North
+100000,3.0,3.0,3.0, Westlands
+100000,3.0,3.0,3.0, Dagoretti North
+100000,3.0,3.0,3.0, Westlands
+100000,3.0,3.0,3.0, Kisauni
+100000,4.0,4.0,4.0, Westlands
+100000,120.0,2.0,, Westlands
+100000,2.0,2.0,, Thika Road
+100000,3.0,3.0,2.0, Dagoretti North
+100000,2024.0,3.0,3.0, Dagoretti North
+100000,1.0,1.0,1.0, Dagoretti North
+100000,2.0,2.0,2.0, Dagoretti North
+100000,1.0,1.0,1.0, Dagoretti North
+100000,23.0,3.0,3.0, Dagoretti North
+100000,12.0,2.0,2.0, Dagoretti North
+100000,3.0,3.0,3.0, Westlands
+100000,3.0,3.0,3.0, Dagoretti North
+100000,3.0,3.0,3.0, Westlands
+100000,2.0,2.0,2.0, Westlands
+100000,3.0,3.0,2.0, Dagoretti North
+100000,3.0,3.0,, Westlands
+100000,2480.0,3.0,4.0, Nyali
+100000,1.0,1.0,2.0, Westlands
+100000,1.0,1.0,1.0, Dagoretti North
+100000,160.0,3.0,4.0, Dagoretti North
+100000,4.0,4.0,4.0, Nyali
+100000,3.0,3.0,3.0, Westlands
+100000,3.0,3.0,3.0, Dagoretti North
+100000,3.0,3.0,2.0, Westlands
+100000,3.0,3.0,4.0, Dagoretti North
+100000,2.0,2.0,, Westlands
+100000,1.0,1.0,, Westlands
+100000,1.0,1.0,1.0, Dagoretti North
+100000,2.0,2.0,, Dagoretti North
+100000,2.0,2.0,, Dagoretti North
+100000,3.0,3.0,, Dagoretti North
+100000,1.0,1.0,1.0, Westlands
+100000,2.0,2.0,2.0, Dagoretti North
+100000,3.0,3.0,3.0, Dagoretti North
+100000,4.0,4.0,4.0, Dagoretti North
+100000,3.0,3.0,2.0, Dagoretti North
+100000,186.0,4.0,4.0, Dagoretti North
+100000,3.0,3.0,3.0, Westlands
+100000,1.0,1.0,, Westlands
+100000,3.0,3.0,4.0, Dagoretti North
+102000,3.0,3.0,2.0, Dagoretti North
+105000,86.0,1.0,2.0, Dagoretti North
+105000,2.0,2.0,2.0, Dagoretti North
+105000,1.0,1.0,1.0, Westlands
+110000,2.0,2.0,2.0, Westlands
+110000,3.0,3.0,, Dagoretti North
+110000,3.0,3.0,4.0, Westlands
+110000,3.0,3.0,3.0, Dagoretti North
+110000,167.0,1.0,2.0, Westlands
+110000,3.0,3.0,2.0, Dagoretti North
+110000,90.0,1.0,1.0, Dagoretti North
+110000,220.0,3.0,3.0, Dagoretti North
+110000,2500.0,3.0,3.0, Dagoretti North
+110000,3.0,3.0,4.0, Westlands
+110000,3.0,3.0,2.0, Dagoretti North
+110000,3.0,3.0,3.0, Dagoretti North
+110000,3.0,3.0,3.0, Dagoretti North
+110000,3.0,3.0,4.0, Dagoretti North
+110000,3.0,3.0,, Muthaiga
+110000,4.0,4.0,3.0, Roysambu
+110000,2.0,2.0,2.0, Westlands
+110000,3.0,3.0,3.0, Westlands
+110000,22.0,3.0,3.0, Westlands
+110000,150.0,3.0,4.0, Dagoretti North
+110000,3.0,3.0,3.0, Westlands
+110000,3.0,3.0,4.0, Dagoretti North
+110000,4.0,4.0,, Westlands
+110000,1.0,1.0,1.0, Dagoretti North
+110000,3.0,3.0,3.0, Westlands
+110000,2.0,2.0,2.0, Dagoretti North
+110000,90.0,1.0,1.0, Westlands
+110000,3.0,3.0,3.0, Dagoretti North
+110000,167.0,2.0,2.0, Dagoretti North
+110000,3.0,3.0,3.0, Dagoretti North
+110000,4.0,4.0,3.0, Westlands
+110000,3.0,3.0,3.0, Westlands
+110000,1.0,1.0,1.0, Dagoretti North
+110000,1.0,1.0,2.0, Westlands
+110000,6.0,6.0,6.0, Ngong Road
+110000,3.0,3.0,, Westlands
+110000,2025.0,3.0,3.0, Langata
+110000,3.0,3.0,4.0, Dagoretti North
+110000,4.0,4.0,3.0, Dagoretti North
+110000,3.0,3.0,4.0, Dagoretti North
+110000,91.0,2.0,2.0, Westlands
+110000,1.0,1.0,1.0, Westlands
+110000,3.0,3.0,4.0, Westlands
+110000,3.0,3.0,3.0, Dagoretti North
+110000,418.0,3.0,3.0, Westlands
+110000,2.0,2.0,2.0, Westlands
+110000,180.0,3.0,4.0, Dagoretti North
+110000,175.0,3.0,4.0, Westlands
+110000,160.0,3.0,4.0, Westlands
+110000,242.0,3.0,, Westlands
+110000,200.0,3.0,3.0, Westlands
+110000,3.0,3.0,, Dagoretti North
+110000,250.0,4.0,, Dagoretti North
+110000,220.0,3.0,3.0, Dagoretti North
+110000,140.0,2.0,2.0, Dagoretti North
+110000,4.0,4.0,3.0, Dagoretti North
+110000,3.0,3.0,3.0, Dagoretti North
+110000,3.0,3.0,4.0, Dagoretti North
+110000,4.0,4.0,3.0, Westlands
+110000,3.0,3.0,2.0, Dagoretti North
+110000,1.0,1.0,, Westlands
+110000,3.0,3.0,2.0, Westlands
+110000,3.0,3.0,2.0, Dagoretti North
+110000,1.0,1.0,2.0, Westlands
+110000,1842.0,3.0,2.0, Nyali
+110000,3.0,3.0,3.0, Dagoretti North
+110000,2.0,2.0,2.0, Dagoretti North
+110000,3.0,3.0,5.0, Dagoretti North
+110000,4.0,4.0,4.0, Westlands
+110000,3.0,3.0,2.0, Westlands
+110000,1.0,1.0,1.0, Dagoretti North
+110000,163.0,1.0,1.0, Westlands
+110000,180.0,2.0,3.0, Westlands
+110000,170.0,2.0,3.0, Westlands
+110000,1.0,1.0,1.0, Westlands
+110000,3.0,3.0,4.0, Westlands
+110000,3.0,3.0,2.0, Dagoretti North
+110000,2.0,2.0,2.0, Dagoretti North
+110000,3.0,3.0,4.0, Westlands
+110000,3.0,3.0,2.0, Dagoretti North
+112000,3.0,3.0,3.0, Dagoretti North
+112500,210.0,3.0,3.0, Westlands
+115000,3.0,3.0,3.0, Westlands
+115000,223.0,3.0,3.0, Dagoretti North
+115000,3.0,3.0,2.0, Westlands
+115000,3.0,3.0,3.0, Westlands
+115000,3.0,3.0,2.0, Westlands
+115000,2.0,2.0,, Westlands
+115000,4.0,4.0,, Westlands
+115000,3.0,3.0,4.0, Dagoretti North
+115000,3.0,3.0,, Westlands
+115000,19.0,1.0,, Dagoretti North
+115000,3.0,3.0,3.0, Westlands
+115000,3.0,3.0,4.0, Dagoretti North
+115000,3.0,3.0,2.0, Dagoretti North
+115000,2.0,2.0,2.0, Dagoretti North
+115000,3.0,3.0,3.0, Westlands
+115000,3.0,3.0,3.0, Westlands
+115000,3.0,3.0,3.0, Westlands
+115000,3.0,3.0,4.0, Dagoretti North
+115000,220.0,3.0,3.0, Dagoretti North
+115000,3.0,3.0,, Dagoretti North
+115000,4.0,4.0,5.0, Dagoretti North
+115000,3.0,3.0,3.0, Westlands
+115000,3.0,3.0,3.0, Westlands
+115000,3.0,3.0,3.0, Westlands
+115000,100.0,1.0,1.0, Dagoretti North
+115000,223.0,3.0,4.0, Dagoretti North
+118000,3.0,3.0,3.0, Dagoretti North
+120000,3.0,3.0,2.0, Westlands
+120000,3.0,3.0,2.0, Westlands
+120000,2.0,2.0,2.0, Dagoretti North
+120000,3.0,3.0,3.0, Westlands
+120000,3.0,3.0,3.0, Dagoretti North
+120000,3.0,3.0,, Dagoretti North
+120000,279.0,4.0,4.0, Westlands
+120000,1.0,1.0,1.0, Dagoretti North
+120000,3.0,3.0,2.0, Dagoretti North
+120000,4.0,4.0,3.0, Dagoretti North
+120000,3.0,3.0,3.0, Westlands
+120000,2.0,2.0,3.0, Dagoretti North
+120000,3.0,3.0,5.0, Dagoretti North
+120000,3.0,3.0,3.0, Westlands
+120000,223.0,3.0,, Westlands
+120000,2.0,2.0,, Dagoretti North
+120000,2430.0,3.0,3.0, Mombasa CBD
+120000,3.0,3.0,3.0, Westlands
+120000,300.0,4.0,4.0, Westlands
+120000,4.0,4.0,, Westlands
+120000,2500.0,3.0,4.0, Dagoretti North
+120000,196.0,3.0,4.0, Dagoretti North
+120000,3.0,3.0,3.0, Westlands
+120000,3.0,3.0,3.0, Westlands
+120000,200.0,3.0,3.0, Westlands
+120000,2000.0,3.0,4.0, Westlands
+120000,3.0,3.0,3.0, Westlands
+120000,3.0,3.0,4.0, Dagoretti North
+120000,2.0,2.0,, Dagoretti North
+120000,4.0,4.0,2.0, Westlands
+120000,1.0,1.0,2.0, Westlands
+120000,3.0,3.0,3.0, Westlands
+120000,3.0,3.0,3.0, Dagoretti North
+120000,204.0,3.0,3.0, Westlands
+120000,2500.0,3.0,3.0, Westlands
+120000,186.0,3.0,3.0, Dagoretti North
+120000,8.0,1.0,1.0, Dagoretti North
+120000,1.0,1.0,1.0, Dagoretti North
+120000,3.0,3.0,3.0, Dagoretti North
+120000,4.0,4.0,2.0, Dagoretti North
+120000,3.0,3.0,2.0, Dagoretti North
+120000,2.0,2.0,2.0, Dagoretti North
+120000,3.0,3.0,2.0, Westlands
+120000,3.0,3.0,2.0, Westlands
+120000,3.0,3.0,2.0, Westlands
+120000,181.0,3.0,3.0, Dagoretti North
+120000,3.0,3.0,, Dagoretti North
+120000,4.0,4.0,4.0, Westlands
+120000,4.0,4.0,3.0, Dagoretti North
+120000,1.0,1.0,1.0, Westlands
+120000,186.0,3.0,, Westlands
+120000,3.0,3.0,3.0, Dagoretti North
+120000,2.0,2.0,, Westlands
+120000,3.0,3.0,3.0, Roysambu
+120000,3.0,3.0,3.0, Westlands
+120000,2940.0,3.0,4.0, Nyali
+120000,3.0,3.0,2.0, Dagoretti North
+120000,3.0,3.0,3.0, Westlands
+120000,3.0,3.0,3.0, Westlands
+120000,1.0,1.0,1.0, Westlands
+120000,4.0,4.0,3.0, Dagoretti North
+120000,186.0,3.0,, Westlands
+120000,2.0,2.0,, Dagoretti North
+120000,3.0,3.0,, Dagoretti North
+120000,240.0,3.0,4.0, Westlands
+120000,2500.0,3.0,4.0, Westlands
+120000,3.0,3.0,4.0, Dagoretti North
+120000,1.0,1.0,, Dagoretti North
+120000,3.0,3.0,, Dagoretti North
+120000,3.0,3.0,3.0, Dagoretti North
+120000,3.0,3.0,3.0, Dagoretti North
+120000,3.0,3.0,4.0, Dagoretti North
+120000,3.0,3.0,3.0, Westlands
+120000,90.0,1.0,1.0, Westlands
+120000,200.0,4.0,5.0, Westlands
+120000,2.0,2.0,2.0, Westlands
+120000,3.0,3.0,3.0, Dagoretti North
+120000,3.0,3.0,3.0, Dagoretti North
+120000,2.0,2.0,2.0, Westlands
+120000,12.0,2.0,2.0, Dagoretti North
+120000,23.0,3.0,4.0, Dagoretti North
+120000,4.0,4.0,4.0, Dagoretti North
+120000,3.0,3.0,4.0, Dagoretti North
+120000,3.0,3.0,3.0, Dagoretti North
+120000,1.0,1.0,1.0, Westlands
+120000,3.0,3.0,2.0, Westlands
+120000,2.0,2.0,3.0, Dagoretti North
+120000,150.0,4.0,3.0, Westlands
+120000,2860.0,3.0,4.0, Nyali
+120000,3.0,3.0,2.0, Dagoretti North
+120000,150.0,3.0,3.0, Dagoretti North
+120000,138.0,3.0,4.0, Dagoretti North
+120000,2.0,2.0,, Dagoretti North
+120000,3.0,3.0,3.0, Dagoretti North
+120000,3.0,3.0,2.0, Dagoretti North
+120000,3.0,3.0,3.0, Dagoretti North
+120000,3.0,3.0,, Dagoretti North
+120000,2.0,2.0,2.0, Dagoretti North
+120000,1500.0,2.0,2.0, Westlands
+120000,1500.0,2.0,2.0, Westlands
+120000,2.0,2.0,2.0, Westlands
+120000,20000.0,1.0,1.0, Westlands
+120000,3.0,3.0,3.0, Westlands
+120000,2.0,2.0,, Dagoretti North
+120000,3.0,3.0,, Dagoretti North
+120000,230.0,3.0,, Westlands
+120000,3.0,3.0,3.0, Nyali
+120000,4.0,4.0,, Dagoretti North
+120000,1800.0,3.0,4.0, Dagoretti North
+120000,186.0,3.0,, Westlands
+120000,3.0,3.0,4.0, Westlands
+120000,1.0,1.0,, Dagoretti North
+120000,4.0,4.0,, Westlands
+120000,4.0,4.0,4.0, Westlands
+120000,2.0,2.0,2.0, Dagoretti North
+120000,2.0,2.0,2.0, Langata
+120000,2.0,2.0,2.0, Westlands
+122000,3.0,3.0,4.0, Westlands
+123000,3.0,3.0,, Westlands
+125000,3.0,3.0,, Westlands
+125000,3.0,3.0,3.0, Westlands
+125000,168.0,3.0,4.0, Dagoretti North
+125000,3.0,3.0,4.0, Westlands
+125000,2.0,2.0,, Dagoretti North
+125000,227.0,3.0,4.0, Dagoretti North
+125000,3.0,3.0,3.0, Dagoretti North
+125000,3.0,3.0,3.0, Westlands
+125000,2.0,2.0,2.0, Dagoretti North
+125000,2.0,2.0,2.0, Dagoretti North
+125000,3.0,3.0,4.0, Dagoretti North
+125000,2.0,2.0,3.0, Dagoretti North
+125000,2.0,2.0,2.0, Westlands
+125000,4.0,4.0,5.0, Westlands
+125000,3.0,3.0,4.0, Dagoretti North
+125000,220.0,3.0,4.0, Dagoretti North
+125000,3.0,3.0,4.0, Westlands
+125000,3.0,3.0,4.0, Dagoretti North
+125000,3.0,3.0,2.0, Westlands
+125000,3.0,3.0,4.0, Dagoretti North
+125000,3.0,3.0,4.0, Westlands
+128000,3.0,3.0,3.0, Westlands
+130000,4.0,4.0,4.0, Westlands
+130000,22.0,3.0,3.0, Dagoretti North
+130000,23.0,3.0,2.0, Dagoretti North
+130000,2137.0,3.0,3.0, Westlands
+130000,3.0,3.0,3.0, Westlands
+130000,167.0,2.0,2.0, Westlands
+130000,2.0,2.0,2.0, Dagoretti North
+130000,2.0,2.0,2.0, Dagoretti North
+130000,2.0,2.0,2.0, Langata
+130000,232.0,3.0,2.0, Westlands
+130000,3.0,3.0,3.0, Dagoretti North
+130000,3.0,3.0,4.0, Dagoretti North
+130000,3.0,3.0,3.0, Westlands
+130000,2.0,2.0,2.0, Dagoretti North
+130000,300.0,3.0,3.0, Westlands
+130000,3.0,3.0,3.0, Westlands
+130000,3.0,3.0,3.0, Westlands
+130000,2.0,2.0,2.0, Westlands
+130000,3.0,3.0,4.0, Dagoretti North
+130000,2.0,2.0,3.0, Dagoretti North
+130000,4.0,4.0,3.0, Westlands
+130000,218.0,3.0,4.0, Westlands
+130000,2.0,2.0,2.0, Dagoretti North
+130000,4.0,4.0,3.0, Westlands
+130000,2.0,2.0,, Ngong Road
+130000,4.0,4.0,5.0, Dagoretti North
+130000,3.0,3.0,4.0, Dagoretti North
+130000,3.0,3.0,3.0, Westlands
+130000,3.0,3.0,2.0, Westlands
+130000,210.0,4.0,4.0, Dagoretti North
+130000,130.0,2.0,2.0, Westlands
+130000,2787.0,2.0,2.0, Langata
+130000,230.0,3.0,3.0, Westlands
+130000,3.0,3.0,3.0, Dagoretti North
+130000,2.0,2.0,2.0, Dagoretti North
+130000,232.0,4.0,5.0, Dagoretti North
+130000,2500.0,3.0,4.0, Westlands
+130000,1.0,1.0,1.0, Westlands
+130000,3.0,3.0,4.0, Westlands
+130000,3.0,3.0,3.0, Dagoretti North
+130000,3.0,3.0,2.0, Westlands
+130000,3.0,3.0,3.0, Westlands
+130000,3.0,3.0,, Dagoretti North
+130000,3.0,3.0,3.0, Westlands
+130000,21000.0,3.0,3.0, Westlands
+130000,3.0,3.0,3.0, Westlands
+130000,180.0,3.0,3.0, Westlands
+130000,193.0,3.0,3.0, Dagoretti North
+130000,3.0,3.0,3.0, Dagoretti North
+130000,180.0,3.0,4.0, Westlands
+130000,180.0,3.0,4.0, Dagoretti North
+130000,2450.0,3.0,4.0, Westlands
+130000,4.0,4.0,, Westlands
+130000,120.0,1.0,2.0, Dagoretti North
+130000,230.0,3.0,4.0, Westlands
+130000,2.0,2.0,2.0, Westlands
+130000,4.0,4.0,, Westlands
+130000,4.0,4.0,, Westlands
+130000,228.0,3.0,3.0, Westlands
+130000,2.0,2.0,2.0, Dagoretti North
+130000,2.0,2.0,, Westlands
+130000,23.0,3.0,4.0, Dagoretti North
+130000,2400.0,3.0,3.0, Westlands
+130000,4.0,4.0,4.0, Dagoretti North
+130000,2.0,2.0,2.0, Dagoretti North
+130000,4.0,4.0,, Dagoretti North
+130000,3.0,3.0,4.0, Dagoretti North
+130000,130.0,2.0,2.0, Westlands
+130000,23.0,3.0,4.0, Westlands
+130000,24.0,3.0,4.0, Westlands
+130000,23.0,3.0,3.0, Westlands
+130000,242.0,3.0,4.0, Westlands
+130000,3.0,3.0,2.0, Dagoretti North
+130000,4.0,4.0,5.0, Dagoretti North
+130000,4.0,4.0,3.0, Westlands
+130000,2840.0,3.0,4.0, Nyali
+130000,2.0,2.0,2.0, Dagoretti North
+130000,23.0,3.0,4.0, Dagoretti North
+130000,1800.0,4.0,4.0, Westlands
+130000,2800.0,3.0,3.0, Westlands
+130000,3.0,3.0,3.0, Westlands
+130000,140.0,2.0,3.0, Dagoretti North
+130000,213.0,4.0,5.0, Dagoretti North
+130000,180.0,3.0,4.0, Dagoretti North
+130000,3.0,3.0,4.0, Dagoretti North
+130000,4.0,4.0,4.0, Westlands
+130000,3.0,3.0,, Westlands
+130000,4.0,4.0,3.0, Dagoretti North
+130000,220.0,3.0,4.0, Westlands
+130000,3.0,3.0,, Dagoretti North
+130000,170.0,3.0,4.0, Westlands
+130000,180.0,3.0,4.0, Westlands
+130000,3.0,3.0,4.0, Westlands
+130000,1.0,1.0,2.0, Westlands
+130000,3.0,3.0,3.0, Dagoretti North
+130000,186.0,3.0,3.0, Westlands
+130000,3.0,3.0,4.0, Westlands
+132000,3.0,3.0,3.0, Westlands
+132000,3.0,3.0,4.0, Dagoretti North
+133000,1.0,1.0,, Westlands
+135000,4.0,4.0,3.0, Dagoretti North
+135000,279.0,3.0,3.0, Dagoretti North
+135000,4.0,4.0,3.0, Westlands
+135000,260.0,3.0,4.0, Westlands
+135000,258.0,3.0,4.0, Dagoretti North
+135000,227.0,3.0,4.0, Dagoretti North
+135000,4.0,4.0,4.0, Westlands
+135000,1.0,1.0,1.0, Westlands
+135000,150.0,2.0,2.0, Dagoretti North
+135000,3.0,3.0,4.0, Westlands
+135000,2.0,2.0,3.0, Westlands
+135000,3.0,3.0,2.0, Dagoretti North
+135000,4.0,4.0,3.0, Westlands
+135000,3.0,3.0,3.0, Westlands
+135000,2.0,2.0,2.0, Westlands
+135000,150.0,2.0,2.0, Westlands
+135000,260.0,4.0,, Dagoretti North
+136000,3.0,3.0,3.0, Westlands
+140000,23.0,3.0,2.0, Westlands
+140000,7.0,1.0,1.0, Westlands
+140000,24.0,4.0,4.0, Westlands
+140000,23.0,3.0,3.0, Westlands
+140000,160.0,2.0,2.0, Westlands
+140000,279.0,3.0,4.0, Dagoretti North
+140000,180.0,4.0,5.0, Dagoretti North
+140000,2.0,2.0,2.0, Dagoretti North
+140000,4047.0,1.0,1.0, Muthaiga
+140000,2.0,2.0,, Westlands
+140000,120.0,2.0,2.0, Dagoretti North
+140000,3.0,3.0,5.0, Dagoretti North
+140000,3.0,3.0,2.0, Dagoretti North
+140000,3.0,3.0,5.0, Dagoretti North
+140000,3.0,3.0,3.0, Dagoretti North
+140000,300.0,3.0,4.0, Dagoretti North
+140000,300.0,4.0,5.0, Dagoretti North
+140000,1.0,1.0,1.0, Westlands
+140000,3.0,3.0,, Westlands
+140000,4.0,4.0,3.0, Westlands
+140000,4.0,4.0,3.0, Westlands
+140000,1.0,1.0,, Dagoretti North
+140000,4.0,4.0,3.0, Westlands
+140000,2.0,2.0,2.0, Westlands
+140000,3.0,3.0,2.0, Dagoretti North
+140000,2.0,2.0,2.0, Westlands
+140000,3.0,3.0,3.0, Westlands
+140000,3.0,3.0,3.0, Westlands
+140000,2.0,2.0,2.0, Westlands
+140000,13.0,2.0,2.0, Dagoretti North
+140000,1.0,1.0,1.0, Westlands
+140000,2.0,2.0,2.0, Dagoretti North
+140000,3.0,3.0,3.0, Westlands
+140000,3.0,3.0,4.0, Westlands
+140000,3.0,3.0,3.0, Westlands
+140000,3.0,3.0,3.0, Westlands
+140000,2023.0,3.0,3.0, Westlands
+140000,3.0,3.0,2.0, Dagoretti North
+140000,3.0,3.0,3.0, Westlands
+140000,3.0,3.0,3.0, Westlands
+140000,3.0,3.0,3.0, Westlands
+140000,3.0,3.0,3.0, Dagoretti North
+140000,3.0,3.0,5.0, Dagoretti North
+140000,1500.0,2.0,2.0, Dagoretti North
+140000,3.0,3.0,4.0, Dagoretti North
+140000,2.0,2.0,2.0, Dagoretti North
+140000,2.0,2.0,2.0, Westlands
+140000,186.0,2.0,2.0, Westlands
+140000,3.0,3.0,2.0, Dagoretti North
+140000,111.0,2.0,, Dagoretti North
+140000,3.0,3.0,2.0, Westlands
+140000,2.0,2.0,2.0, Dagoretti North
+140000,2.0,2.0,3.0, Westlands
+140000,262.0,3.0,3.0, Westlands
+140000,3.0,3.0,3.0, Westlands
+140000,3.0,3.0,4.0, Dagoretti North
+140000,4.0,4.0,3.0, Westlands
+140000,20000.0,2.0,2.0, Westlands
+140000,2.0,2.0,, Dagoretti North
+140000,4.0,4.0,4.0, Westlands
+140000,3.0,3.0,4.0, Westlands
+145000,4.0,4.0,5.0, Westlands
+145000,3.0,3.0,4.0, Dagoretti North
+145000,3.0,3.0,3.0, Thika Road
+145000,2400.0,3.0,3.0, Dagoretti North
+145000,3.0,3.0,5.0, Westlands
+145000,4.0,4.0,4.0, Westlands
+145000,3.0,3.0,3.0, Dagoretti North
+145000,2.0,2.0,2.0, Westlands
+145000,3.0,3.0,3.0, Dagoretti North
+145000,3.0,3.0,3.0, Dagoretti North
+150000,2.0,2.0,2.0, Dagoretti North
+150000,279.0,4.0,5.0, Dagoretti North
+150000,24.0,4.0,4.0, Dagoretti North
+150000,13.0,2.0,2.0, Westlands
+150000,2.0,2.0,2.0, Dagoretti North
+150000,3.0,3.0,3.0, Westlands
+150000,3.0,3.0,, Westlands
+150000,4.0,4.0,4.0, Dagoretti North
+150000,4.0,4.0,5.0, Dagoretti North
+150000,260.0,4.0,, Westlands
+150000,21000.0,4.0,4.0, Westlands
+150000,4.0,4.0,5.0, Dagoretti North
+150000,4.0,4.0,5.0, Dagoretti North
+150000,200.0,2.0,2.0, Dagoretti North
+150000,2.0,2.0,, Dagoretti North
+150000,4.0,4.0,4.0, Dagoretti North
+150000,260.0,4.0,, Westlands
+150000,4.0,4.0,3.0, Westlands
+150000,220.0,3.0,4.0, Dagoretti North
+150000,2500.0,4.0,5.0, Westlands
+150000,270.0,3.0,4.0, Westlands
+150000,2.0,2.0,, Westlands
+150000,4.0,4.0,, Dagoretti North
+150000,3.0,3.0,4.0, Westlands
+150000,2.0,2.0,2.0, Dagoretti North
+150000,3.0,3.0,3.0, Westlands
+150000,3.0,3.0,2.0, Dagoretti North
+150000,3.0,3.0,3.0, Dagoretti North
+150000,2.0,2.0,2.0, Westlands
+150000,2.0,2.0,2.0, Dagoretti North
+150000,4.0,4.0,4.0, Westlands
+150000,120.0,2.0,, Dagoretti North
+150000,111.0,1.0,1.0, Westlands
+150000,46.0,2.0,2.0, Westlands
+150000,23.0,3.0,4.0, Dagoretti North
+150000,25.0,4.0,3.0, Westlands
+150000,2.0,2.0,3.0, Langata
+150000,4.0,4.0,5.0, Dagoretti North
+150000,2.0,2.0,1.0, Thika Road
+150000,3.0,3.0,4.0, Dagoretti North
+150000,3.0,3.0,4.0, Westlands
+150000,3.0,3.0,2.0, Dagoretti North
+150000,3.0,3.0,2.0, Dagoretti North
+150000,4.0,4.0,, Westlands
+150000,3.0,3.0,3.0, Dagoretti North
+150000,4.0,4.0,, Westlands
+150000,2025.0,3.0,2.0, Dagoretti North
+150000,290.0,4.0,5.0, Dagoretti North
+150000,4.0,4.0,5.0, Dagoretti North
+150000,3.0,3.0,4.0, Dagoretti North
+150000,3.0,3.0,4.0, Westlands
+150000,3.0,3.0,4.0, Westlands
+150000,3.0,3.0,3.0, Westlands
+150000,3.0,3.0,3.0, Dagoretti North
+150000,2.0,2.0,3.0, Westlands
+150000,4.0,4.0,5.0, Westlands
+150000,325.0,4.0,4.0, Dagoretti North
+150000,3.0,3.0,2.0, Kiambu Road
+150000,4.0,4.0,3.0, Westlands
+150000,4.0,4.0,4.0, Westlands
+150000,1.0,1.0,1.0, Westlands
+150000,80.0,2.0,2.0, Westlands
+150000,90.0,2.0,2.0, Westlands
+150000,150.0,2.0,2.0, Westlands
+150000,150.0,2.0,2.0, Westlands
+150000,2.0,2.0,, Westlands
+150000,3.0,3.0,, Westlands
+150000,3.0,3.0,, Dagoretti North
+150000,2.0,2.0,2.0, Dagoretti North
+150000,2.0,2.0,2.0, Westlands
+150000,3.0,3.0,3.0, Dagoretti North
+150000,2.0,2.0,3.0, Westlands
+150000,4.0,4.0,4.0, Westlands
+150000,3.0,3.0,4.0, Westlands
+150000,4.0,4.0,4.0, Westlands
+150000,3.0,3.0,3.0, Dagoretti North
+150000,4.0,4.0,, Westlands
+150000,3.0,3.0,, Westlands
+150000,23.0,3.0,3.0, Dagoretti North
+150000,14.0,2.0,2.0, Dagoretti North
+150000,3.0,3.0,2.0, Dagoretti North
+150000,158.0,3.0,2.0, Westlands
+150000,3.0,3.0,3.0, Westlands
+150000,160.0,3.0,4.0, Dagoretti North
+150000,2.0,2.0,2.0, Westlands
+150000,2.0,2.0,2.0, Westlands
+150000,3.0,3.0,2.0, Dagoretti North
+150000,3.0,3.0,4.0, Dagoretti North
+150000,3.0,3.0,2.0, Westlands
+150000,133.0,2.0,, Langata
+150000,4.0,4.0,3.0, Dagoretti North
+150000,1.0,1.0,1.0, Dagoretti North
+150000,3.0,3.0,3.0, Dagoretti North
+150000,4.0,4.0,4.0, Dagoretti North
+150000,4.0,4.0,4.0, Westlands
+150000,2601.0,3.0,4.0, Westlands
+150000,2.0,2.0,2.0, Westlands
+150000,3000.0,4.0,4.0, Westlands
+150000,3.0,3.0,, Westlands
+150000,3.0,3.0,4.0, Dagoretti North
+150000,4.0,4.0,4.0, Dagoretti North
+150000,3.0,3.0,3.0, Westlands
+150000,2.0,2.0,2.0, Westlands
+150000,2.0,2.0,3.0, Dagoretti North
+150000,3.0,3.0,, Westlands
+150000,4.0,4.0,4.0, Dagoretti North
+150000,325.0,3.0,, Westlands
+150000,3.0,3.0,2.0, Dagoretti North
+150000,3.0,3.0,3.0, Dagoretti North
+150000,2.0,2.0,2.0, Dagoretti North
+150000,3.0,3.0,3.0, Dagoretti North
+150000,2.0,2.0,2.0, Westlands
+155000,4.0,4.0,4.0, Westlands
+155000,2.0,2.0,2.0, Westlands
+155000,3.0,3.0,5.0, Westlands
+155000,4.0,4.0,4.0, Westlands
+155000,3.0,3.0,5.0, Westlands
+155000,2950.0,3.0,5.0, Westlands
+158000,4.0,4.0,3.0, Westlands
+160000,24.0,4.0,3.0, Westlands
+160000,16.0,2.0,2.0, Westlands
+160000,1.0,1.0,1.0, Westlands
+160000,4.0,4.0,, Dagoretti North
+160000,4.0,4.0,4.0, Dagoretti North
+160000,4.0,4.0,4.0, Dagoretti North
+160000,4.0,4.0,3.0, Dagoretti North
+160000,3.0,3.0,3.0, Dagoretti North
+160000,280.0,3.0,3.0, Westlands
+160000,3.0,3.0,2.0, Westlands
+160000,2.0,2.0,2.0, Westlands
+160000,280.0,3.0,3.0, Westlands
+160000,3.0,3.0,2.0, Westlands
+160000,2.0,2.0,2.0, Westlands
+160000,3.0,3.0,2.0, Westlands
+160000,2.0,2.0,2.0, Westlands
+160000,3.0,3.0,3.0, Westlands
+160000,3.0,3.0,, Westlands
+160000,3.0,3.0,4.0, Westlands
+160000,1.0,1.0,2.0, Westlands
+160000,220.0,3.0,3.0, Dagoretti North
+160000,3.0,3.0,3.0, Westlands
+160000,4.0,4.0,4.0, Westlands
+160000,3.0,3.0,3.0, Dagoretti North
+160000,3.0,3.0,3.0, Dagoretti North
+160000,130.0,2.0,1.0, Westlands
+160000,3.0,3.0,3.0, Westlands
+160000,2.0,2.0,2.0, Dagoretti North
+160000,4.0,4.0,4.0, Westlands
+160000,3.0,3.0,2.0, Westlands
+160000,3.0,3.0,, Langata
+160000,3.0,3.0,5.0, Westlands
+160000,344.0,4.0,4.0, Westlands
+160000,16.0,2.0,3.0, Westlands
+160000,23.0,3.0,3.0, Dagoretti North
+160000,23.0,3.0,3.0, Dagoretti North
+160000,2.0,2.0,2.0, Dagoretti North
+160000,3.0,3.0,4.0, Westlands
+160000,3.0,3.0,2.0, Dagoretti North
+160000,2.0,2.0,3.0, Westlands
+160000,2000.0,1.0,1.0, Westlands
+160000,2.0,2.0,3.0, Westlands
+160000,2000.0,1.0,1.0, Westlands
+160000,20000.0,2.0,2.0, Westlands
+160000,3.0,3.0,3.0, Westlands
+160000,2.0,2.0,3.0, Dagoretti North
+160000,250.0,4.0,4.0, Dagoretti North
+160000,260.0,4.0,5.0, Westlands
+160000,2.0,2.0,2.0, Dagoretti North
+160000,3.0,3.0,4.0, Westlands
+160000,4.0,4.0,6.0, Dagoretti North
+160000,3.0,3.0,4.0, Dagoretti North
+160000,23.0,3.0,3.0, Dagoretti North
+160000,24.0,4.0,4.0, Westlands
+160000,3.0,3.0,, Westlands
+160000,3.0,3.0,4.0, Westlands
+160000,3.0,3.0,3.0, Dagoretti North
+160000,232.0,4.0,5.0, Westlands
+160000,4.0,4.0,4.0, Westlands
+160000,2.0,2.0,2.0, Westlands
+160000,2.0,2.0,2.0, Westlands
+160000,3.0,3.0,, Westlands
+160000,3.0,3.0,4.0, Westlands
+160000,260.0,3.0,4.0, Dagoretti North
+160000,4.0,4.0,4.0, Westlands
+160000,3.0,3.0,4.0, Nyali
+160000,2.0,2.0,, Dagoretti North
+160000,186.0,4.0,, Westlands
+160000,2.0,2.0,, Westlands
+160000,1.0,1.0,2.0, Westlands
+160000,4645.0,3.0,2.0, Westlands
+160000,3.0,3.0,4.0, Westlands
+165000,24.0,3.0,3.0, Dagoretti North
+165000,3.0,3.0,3.0, Westlands
+165000,230.0,3.0,4.0, Dagoretti North
+165000,4.0,4.0,4.0, Westlands
+165000,4.0,4.0,, Westlands
+165000,3.0,3.0,3.0, Westlands
+165000,2800.0,3.0,4.0, Westlands
+165000,260.0,3.0,, Westlands
+165000,260.0,3.0,4.0, Westlands
+165000,4.0,4.0,3.0, Westlands
+165000,4.0,4.0,3.0, Westlands
+165000,2.0,2.0,2.0, Westlands
+165000,3.0,3.0,3.0, Dagoretti North
+165000,2.0,2.0,, Dagoretti North
+165000,2.0,2.0,3.0, Dagoretti North
+170000,3.0,3.0,3.0, Dagoretti North
+170000,23.0,3.0,3.0, Westlands
+170000,28.0,3.0,4.0, Dagoretti North
+170000,23.0,3.0,3.0, Dagoretti North
+170000,150.0,2.0,2.0, Westlands
+170000,175.0,3.0,3.0, Westlands
+170000,3.0,3.0,3.0, Westlands
+170000,3.0,3.0,4.0, Dagoretti North
+170000,3.0,3.0,3.0, Westlands
+170000,3.0,3.0,3.0, Westlands
+170000,3.0,3.0,3.0, Westlands
+170000,3.0,3.0,3.0, Westlands
+170000,250.0,4.0,5.0, Westlands
+170000,230.0,3.0,4.0, Westlands
+170000,12.0,2.0,2.0, Dagoretti North
+170000,20.0,3.0,3.0, Dagoretti North
+170000,186.0,3.0,3.0, Westlands
+170000,2.0,2.0,2.0, Dagoretti North
+170000,18.0,2.0,3.0, Dagoretti North
+170000,3.0,3.0,4.0, Westlands
+170000,2.0,2.0,2.0, Westlands
+170000,2.0,2.0,3.0, Westlands
+170000,1.0,1.0,, Dagoretti North
+170000,2.0,2.0,2.0, Dagoretti North
+170000,3.0,3.0,3.0, Dagoretti North
+170000,4047.0,3.0,, Dagoretti North
+170000,2.0,2.0,2.0, Dagoretti North
+170000,23.0,3.0,3.0, Dagoretti North
+170000,300.0,5.0,6.0, Dagoretti North
+170000,3.0,3.0,3.0, Westlands
+170000,4.0,4.0,3.0, Westlands
+170000,1.0,1.0,1.0, Dagoretti North
+170000,3.0,3.0,3.0, Westlands
+170000,270.0,3.0,4.0, Westlands
+170000,279.0,4.0,, Westlands
+170000,3.0,3.0,4.0, Westlands
+170000,3.0,3.0,2.0, Thika Road
+170000,3.0,3.0,4.0, Westlands
+170000,2.0,2.0,2.0, Dagoretti North
+172000,3.0,3.0,4.0, Dagoretti North
+172000,4.0,4.0,4.0, Westlands
+175000,280.0,3.0,, Westlands
+175000,3.0,3.0,, Westlands
+175000,3.0,3.0,4.0, Westlands
+175000,4.0,4.0,4.0, Westlands
+175000,4.0,4.0,, Westlands
+175000,2.0,2.0,2.0, Dagoretti North
+175000,3.0,3.0,3.0, Westlands
+175000,4.0,4.0,4.0, Westlands
+175000,4.0,4.0,5.0, Westlands
+175000,3.0,3.0,3.0, Westlands
+175000,279.0,3.0,3.0, Westlands
+175000,3.0,3.0,3.0, Westlands
+175000,4.0,4.0,4.0, Westlands
+175000,4.0,4.0,4.0, Westlands
+175000,150.0,2.0,2.0, Westlands
+180000,2.0,2.0,2.0, Dagoretti North
+180000,3.0,3.0,3.0, Westlands
+180000,3.0,3.0,, Dagoretti North
+180000,13.0,2.0,2.0, Dagoretti North
+180000,4.0,4.0,4.0, Westlands
+180000,3.0,3.0,3.0, Dagoretti North
+180000,3.0,3.0,3.0, Dagoretti North
+180000,4.0,4.0,4.0, Langata
+180000,1.0,1.0,2.0, Westlands
+180000,2.0,2.0,2.0, Westlands
+180000,3.0,3.0,3.0, Westlands
+180000,3.0,3.0,4.0, Westlands
+180000,3.0,3.0,, Dagoretti North
+180000,2.0,2.0,2.0, Westlands
+180000,4.0,4.0,5.0, Dagoretti North
+180000,4.0,4.0,4.0, Westlands
+180000,2.0,2.0,, Dagoretti North
